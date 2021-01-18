@@ -50,3 +50,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+JarvisOSViaReactOS/src/modules/optional/wine_gecko-2.40-x86.msi

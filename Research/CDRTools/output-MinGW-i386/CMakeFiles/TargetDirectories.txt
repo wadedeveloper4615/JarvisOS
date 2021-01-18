@@ -1,0 +1,6 @@
+C:/projects/CDRTools/output-MinGW-i386/CMakeFiles/edit_cache.dir
+C:/projects/CDRTools/output-MinGW-i386/CMakeFiles/rebuild_cache.dir
+C:/projects/CDRTools/output-MinGW-i386/CMakeFiles/mkisofs.dir
+C:/projects/CDRTools/output-MinGW-i386/CMakeFiles/libmdigest.dir
+C:/projects/CDRTools/output-MinGW-i386/CMakeFiles/libsiconv.dir
+C:/projects/CDRTools/output-MinGW-i386/CMakeFiles/libschily.dir
